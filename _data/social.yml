@@ -1,0 +1,5 @@
+# For the share button options at the bottom of the articles
+share:
+  email: true
+  linkedin: true
+  twitter: true
