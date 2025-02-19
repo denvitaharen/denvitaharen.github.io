@@ -31,7 +31,7 @@ remote_theme: sylhare/Type-on-Strap
 post_navigation: true
 paginate: 10
 paginate_path: "blog/page:num"
-plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed]
+plugins: [jekyll-paginate, jekyll-seo-tag, jekyll-feed, jekyll-sitemap]
 
 title: Richard Alm                    # Name of website
 #avatar: assets/img/avatar.png         # Path of avatar image, to be displayed in the theme's header
@@ -41,9 +41,6 @@ color_theme: auto                     # color theme auto, dark or light
 
 header_text: developer, java, kubernetes etc
 footer_text: " "
-
-plugins:
-  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
