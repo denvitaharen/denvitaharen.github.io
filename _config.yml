@@ -42,6 +42,9 @@ color_theme: auto                     # color theme auto, dark or light
 header_text: developer, java, kubernetes etc
 footer_text: " "
 
+google_analytics:
+  id: "ngdbS4IvBpiO-RTkd2dp_eg-96BQQoLsoXsIom7bPEQ"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
