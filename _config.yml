@@ -23,7 +23,7 @@ email: richard@richardalm.se
 description: >- # this means to ignore newlines until "baseurl:"
   This is my personal site in which I occasionally write some thoughts, stuff I learnt or want to share regarding programming, design and architecture.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://denvitaharen.net" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://richardalm.se" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 remote_theme: sylhare/Type-on-Strap 
@@ -43,7 +43,7 @@ header_text: developer, java, kubernetes etc
 footer_text: " "
 
 google_analytics:
-  id: "ngdbS4IvBpiO-RTkd2dp_eg-96BQQoLsoXsIom7bPEQ"
+  id: "nGrNBSnVAJjQgQuPPhp3XST0GUZap7gNW2_UFTJkWh0I"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
